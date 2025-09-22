@@ -1,7 +1,7 @@
 # Ex-1-Developing-AI-Agent-with-PEAS-Description
-### Name:
+### Name: JENISHA TEENA ROSE F
 
-### Register Number:
+### Register Number: 2305001010
 
 ### Aim:
 To find the PEAS description for the given AI problem and develop an AI agent.
@@ -35,7 +35,7 @@ It’s a framework used to define the task environment for an AI agent clearly.
 5. Personal assistant (like Siri or Alexa)
 ```
 
-### VacuumCleanerAgent
+### Vacuum Cleaner Agent
 ### Algorithm:
 Step 1: Initialize:
 
@@ -116,6 +116,9 @@ agent.print_status()
 ```
 ### Sample Output:
 
-425810495-d1198ba7-da19-413b-9907-4844afae627f
+![WhatsApp Image 2025-09-22 at 13 13 05_faf4e8dd](https://github.com/user-attachments/assets/e7168f6a-c015-4c41-a2b1-131d9257d413)
+
 
 ### Result:
+
+Thus the given program for Developing-AI-Agent-with-PEAS-Description has been executed succesfully.
